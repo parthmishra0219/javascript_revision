@@ -11,6 +11,10 @@
   height: 25px;
   margin-top: 30px;
 }
+#weight-guide {
+  margin-left: 75px;
+  margin-top: 25px;
+}
 
 #results {
   font-size: 35px;
